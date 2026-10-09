@@ -1,9 +1,9 @@
 class Fastup < Formula
   desc "Probe download sources and update AI coding CLIs from the fastest, checksum-verified one"
   homepage "https://github.com/askmegit/fastup"
-  version "0.2.0"
+  version "0.3.0"
   url "https://github.com/askmegit/fastup/releases/download/v#{version}/fastup"
-  sha256 "3a71a523626ca2ca8e691b60624a70637af345b49606c60c6c02bb416a5e4474"
+  sha256 "0ff5e43af2cf24c9982a6c673f356048f69c30f068ec71b308e0706575705933"
   license "MIT"
 
   depends_on :macos
